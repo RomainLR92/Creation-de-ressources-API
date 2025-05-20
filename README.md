@@ -167,4 +167,4 @@ curl -X GET http://localhost:3000/albums
 
 ## Auteur
 
-Romain & Ahmed
+Romain
